@@ -18,5 +18,4 @@ The user interface for use Jean Shortener service, this was made with React and 
 # Contact
 
 * **Email**: contact@jean.host
-
 * **Discord**: iJean#9194
