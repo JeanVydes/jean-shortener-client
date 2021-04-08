@@ -90,7 +90,6 @@ export default class Dashboard extends Component<Properties, State> {
     }
 
     public render() {
-        console.log(this.props)
         if(!this.props.loading) {
             return (
                 <React.Fragment>
@@ -99,7 +98,7 @@ export default class Dashboard extends Component<Properties, State> {
                             <div className="dashboard-menu-yXn">
                                 <div className="dashboard-menu-content-iQp">
                                     <div className="dashboard-menu-header-hXm">
-                                        <h1>{/*this.props.user.name.trim().split(" ")[0]*/}</h1>
+                                        <h1>{/*this.props.user.name.trim().split(" ")[0]*/}</h1> // Pending to pass user to component
                                     </div>
                                     <ul className="dashboard-menu-option-container-yGVt">
                                         <li className="dashboard-menu-option-tQN">My Account <i className="fas fa-user"></i></li>
