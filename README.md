@@ -6,14 +6,18 @@ The user interface for use Jean Shortener service, this was made with React and 
 
 - Sign in
 - Sign up
+- Shortener
 
 # TODO
 
 - User account management
-- Shortener interface
 - Shortened URL statics
 - Help center
 - Top shortened URL most used
+
+# Building
+
+- Dashboard (Statistics and Account Management)
 
 # Contact
 
